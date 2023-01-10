@@ -10,6 +10,7 @@ I would like to thank Dr. Ryan Ahmed, Ph.D., MBA.
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/34344439/211633760-58e36c5b-c407-498f-a1a8-960b2dcf40f2.png)
+![image](https://user-images.githubusercontent.com/34344439/211633936-a5c5056d-21b6-466f-945a-99a91f8f3760.png)
 
 - Pandas: a Python library for data manipulation and analysis.
 - Matplotlib: a plotting library for Python.
