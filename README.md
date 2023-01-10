@@ -9,13 +9,8 @@ I would like to thank Dr. Ryan Ahmed, Ph.D., MBA.
 
 
 ## Demo
+![image](https://user-images.githubusercontent.com/34344439/211633760-58e36c5b-c407-498f-a1a8-960b2dcf40f2.png)
 
-- Breadth-First Search (FIFO): The route is [1, 6, 5], and total cost is 23.
-- Depth-First Search (LIFO): The route is [1, 6, 5], and total cost is 23.
-- Uniform-Cost Search: The route is [1, 3, 6, 5], and total cost is 20.
-
-
-## Tech Stack
 - Pandas: a Python library for data manipulation and analysis.
 - Matplotlib: a plotting library for Python.
 - Numpy: a library for scientific computing with Python.
